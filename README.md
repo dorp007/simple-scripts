@@ -6,4 +6,4 @@ This script resolves all possible DNS records (A, AAAA, CNAME, MX, TXT, NS) for 
 
 Save this script to a file (e.g. dns-check-all.sh), make it executable (chmod +x dns-check-all.sh), and run it with the domain name as the argument:
 
-'./dns-check-all.sh example.com'
+`./dns-check-all.sh example.com`
